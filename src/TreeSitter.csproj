@@ -19,6 +19,8 @@
     <PackageReadmeFile>PACKAGE.md</PackageReadmeFile>
     <PackageProjectUrl>https://github.com/mariusgreuel/tree-sitter-dotnet-bindings</PackageProjectUrl>
     <RepositoryUrl>https://github.com/mariusgreuel/tree-sitter-dotnet-bindings.git</RepositoryUrl>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>TreeSitter.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <ItemGroup>
